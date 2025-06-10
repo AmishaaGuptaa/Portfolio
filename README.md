@@ -29,10 +29,10 @@ This project answers:
 | KPI | Description |
 |-----|-------------|
 | **Total Revenue** | Overall business volume |
-| **Monthly & Quarterly Trends** | Seasonality and dips |
+| **Monthly Revenue Trends** | Seasonality and dips |
 | **Top Products & Categories** | Product performance |
-| **Refund Rate by Category** | Risky segments |
-| **Customer Lifetime Revenue** | High-value customer profiling |
+| **Revenue by Product Category** | Valuable segments |
+| **Customer Retention and Revenue** | High-value customer profiling |
 
 ---
 
