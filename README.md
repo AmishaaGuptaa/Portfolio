@@ -42,7 +42,7 @@ This project answers:
 
 -  **Goal**: Identify High revenue generating categories 
 -  **Graph**: 
-  [image alt](https://github.com/AmishaaGuptaa/Portfolio/blob/main/category%20wise%20revenue.png?raw=true)
+  ![Top categories](https://github.com/AmishaaGuptaa/Portfolio/blob/main/category%20wise%20revenue.png?raw=true)
  -  **Insight**:  
   The top performing category is books with $5666623.17 in revenue.it is suggested to prioritize for upcoming campaigns and stock planning. to implement a recommendation system based on purchase history and Bundle books with related merchandise to enhance revenue growth.
 
@@ -51,7 +51,7 @@ This project answers:
 ###  Top selling products
 
 -  **Goal**: Identify what products are the most purchased
--  **Graph**: [image alt](https://github.com/AmishaaGuptaa/Portfolio/blob/main/top%2010%20products%20by%20units%20sold.png?raw=true)
+-  **Graph**: ![Top Products](https://github.com/AmishaaGuptaa/Portfolio/blob/main/top%2010%20products%20by%20units%20sold.png?raw=true)
 -  **Insight**:  
   Products 215, 614, and 785 demonstrate strong sales performance, indicating potential demand for bulk purchasing. Leveraging targeted discounts or volume-based pricing strategies could further optimize revenue growth.
 ---
@@ -59,7 +59,7 @@ This project answers:
 ### Top 10 Customers by Revenue
 
 - **Goal**: Rank customers by total revenue
--  **Graph**:  [image alt](https://github.com/AmishaaGuptaa/Portfolio/blob/main/top%2010%20customers%20(revenue).png?raw=true)
+-  **Graph**:  ![Top customers](https://github.com/AmishaaGuptaa/Portfolio/blob/main/top%2010%20customers%20(revenue).png?raw=true)
 -  **Insight**:  
  The top 10 customers contribute **$74,488 in total revenue**, representing a highly valuable segment. Implementing targeted incentives, such as exclusive offers and early-access privileges, can enhance retention and strengthen long-term customer engagement.
 
@@ -68,7 +68,7 @@ This project answers:
 ###  Revenue share by Region
 
 -  **Goal**: Estimate which regions generate highest revenue.
-- **Graph**:  [image alt](https://github.com/AmishaaGuptaa/Portfolio/blob/main/revenue%20share%20by%20region.png?raw=true)
+- **Graph**:  ![Top Revenue Regions](https://github.com/AmishaaGuptaa/Portfolio/blob/main/revenue%20share%20by%20region.png?raw=true)
 -  **Insight**:  
   The revenue distribution shows **Europe leading at 33.5%, with North America and Asia closely following at 33.3% each**, indicating a need for balanced strategic investments. Europe’s slight edge presents an opportunity for targeted market expansion to optimize growth.
 
@@ -77,7 +77,7 @@ This project answers:
 ###  Repeat Purchase Rate
 
 -  **Goal**: Analyze Customer retention and new buyer ratio.
-- **Graph**:  [image alt](https://github.com/AmishaaGuptaa/Portfolio/blob/main/repeat%20purchase%20rate%20breakdown.png?raw=true)
+- **Graph**:  ![Repeat Purchase rates](https://github.com/AmishaaGuptaa/Portfolio/blob/main/repeat%20purchase%20rate%20breakdown.png?raw=true)
 -  **Insight**:  
   The **repeat purchase rate** shows that **77.6% of customers are repeat buyers, while 22.4% are one-time buyers**, highlighting strong customer retention. This suggests an opportunity to further nurture loyalty programs and targeted engagement strategies.
 ---
@@ -85,7 +85,7 @@ This project answers:
 
 - **Goal**: Analyze the total revenue records to identify the best performing month.
 
--**Graph**:  [image alt](https://github.com/AmishaaGuptaa/Portfolio/blob/main/total%20revenue%20by%20month%20(2).png?raw=true)
+-**Graph**:  ![Monthly revenue](https://github.com/AmishaaGuptaa/Portfolio/blob/main/total%20revenue%20by%20month%20(2).png?raw=true)
 - **Insight**:  
   The **monthly revenue analysis** highlights **peaks in March and November, with a noticeable drop in September**, indicating seasonal demand shifts. Adjusting marketing strategies and inventory planning during lower-performing months could help stabilize revenue.
 
