@@ -153,7 +153,7 @@ This project is structured to help recruiters and business stakeholders easily r
   - Code + clean graph
   - A brief **"Key Insight"** written below each chart
 
-You can scroll through to quickly assess logic, presentation, and business value — just like evaluating an internal analyst report.
+
 
 ## Final Thoughts
 This analysis provides data-driven insights into customer behavior, revenue patterns, and market opportunities. Implementing the recommended strategies can drive growth, enhance retention, and optimize business performance.
